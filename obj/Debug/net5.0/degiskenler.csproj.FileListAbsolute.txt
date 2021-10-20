@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\degiskenler\bin\Debug\net5.0\degiskenler.exe
+D:\yazılım\pratikler\degiskenler\bin\Debug\net5.0\degiskenler.deps.json
+D:\yazılım\pratikler\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.json
+D:\yazılım\pratikler\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.dev.json
+D:\yazılım\pratikler\degiskenler\bin\Debug\net5.0\degiskenler.dll
+D:\yazılım\pratikler\degiskenler\bin\Debug\net5.0\ref\degiskenler.dll
+D:\yazılım\pratikler\degiskenler\bin\Debug\net5.0\degiskenler.pdb
+D:\yazılım\pratikler\degiskenler\obj\Debug\net5.0\degiskenler.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\degiskenler\obj\Debug\net5.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfo.cs
+D:\yazılım\pratikler\degiskenler\obj\Debug\net5.0\degiskenler.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\degiskenler\obj\Debug\net5.0\degiskenler.dll
+D:\yazılım\pratikler\degiskenler\obj\Debug\net5.0\ref\degiskenler.dll
+D:\yazılım\pratikler\degiskenler\obj\Debug\net5.0\degiskenler.pdb
+D:\yazılım\pratikler\degiskenler\obj\Debug\net5.0\degiskenler.genruntimeconfig.cache
